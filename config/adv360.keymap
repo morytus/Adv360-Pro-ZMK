@@ -101,11 +101,11 @@
 
         layer_Layer__6 {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans              &trans                                                               &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans              &trans                                                               &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans              &trans  &trans  &trans                  &trans      &trans           &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans                              &trans                  &trans                               &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans                    &kp LALT  &trans  &trans                  &trans  &macro_ime  &mt RCTRL SPACE          &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans              &trans                                                      &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans              &trans                                                      &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans              &trans  &trans  &trans                  &trans      &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                              &trans                  &trans                      &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans                    &kp LALT  &trans  &trans                  &trans  &macro_ime  &trans          &trans  &trans  &trans  &trans  &trans
             >;
         };
 
