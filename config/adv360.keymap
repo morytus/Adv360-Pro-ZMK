@@ -103,9 +103,9 @@
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans              &trans                                                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans              &trans                                                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans              &trans            &trans  &trans                     &trans                  &mo 7      &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans                                        &trans                     &trans                                     &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans                    &kp LALT  &mt LSHIFT SPACE  &trans                  &kp RCTRL  &mt RIGHT_SHIFT SPACE  &macro_ime          &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans              &trans            &trans  &trans                  &trans                  &mo 7         &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                                        &trans                  &trans                                        &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans                    &kp LALT  &mt LSHIFT SPACE  &trans                   &mo 7  &mt RIGHT_SHIFT SPACE  &kp RIGHT_ALT          &trans  &trans  &trans  &trans  &trans
             >;
         };
 
