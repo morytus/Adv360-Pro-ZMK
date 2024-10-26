@@ -91,11 +91,11 @@
 
         layer_Layer__5 {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans              &trans                                                                      &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans              &trans                                                                      &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans              &trans            &trans  &trans                  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans                                        &trans                  &trans                            &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans                    &kp LALT  &mt LSHIFT SPACE  &trans                  &trans  &mt RSHIFT SPACE   &mo 6          &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans              &trans                                                                                 &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans              &trans                                                                                 &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans              &trans            &trans  &trans                             &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                                        &trans                             &trans                            &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans                    &kp LALT  &mt LSHIFT SPACE  &trans                  &kp RIGHT_CONTROL  &mt RSHIFT SPACE   &mo 6          &trans  &trans  &trans  &trans  &trans
             >;
         };
 
